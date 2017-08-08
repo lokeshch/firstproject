@@ -49,7 +49,7 @@ public class Test_search {
 
       LoginPage.LogIn_Action("lokesh ch", "bujjigadu123");
 
-      System.out.println(" Login Successfully, now it is the time to Log Off buddy.");
+      System.out.println(" Login Successfully,  Off buddy.");
 
       HomePage.lnk_LogOut.click();
 
